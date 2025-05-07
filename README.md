@@ -1,4 +1,4 @@
-# GO:Shared memory and IPC Examples
+# GO: Shared memory and IPC Examples
 Minimalistic practical example of using UNIX shared memory API for interprocess communication between Go and C programms
 
 ## Setup
