@@ -10,7 +10,7 @@
 #include <unistd.h>
 
 #define SHM_SIZE (2*1024*1024)
-#define SHM_KEY 12345
+#define SHM_KEY 12345 // 0x3039
 
 int   g_shmid = 0;
 char *g_shm   = NULL;
